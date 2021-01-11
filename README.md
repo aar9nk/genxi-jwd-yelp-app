@@ -1,4 +1,4 @@
-# Weather App: Trying out async Javascript
+# Yelp App: Trying out async Javascript
 
 ## Description
 
