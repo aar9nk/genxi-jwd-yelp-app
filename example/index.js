@@ -1,6 +1,4 @@
-const apiKey =
-  "ZV8RLxPkyiqIKvOvZJT-QJ25OATfceSnENURnsL7Kooq_4XvkSqrNgS5PZu9TqBAHJOjGDapE5QZoaIQIGrWkRSp857ZAYKlSwJhio_WQyC85QsOxWvkNixLmeW9XHYx";
-
+const apiKey = "set your api key here "
 const form = document.querySelector("form");
 const list = document.querySelector("ul");
 const input = document.querySelector("input");
